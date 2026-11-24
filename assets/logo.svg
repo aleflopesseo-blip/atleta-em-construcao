@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Espaço reservado para o logotipo">
+  <!-- Imagem provisória: substitua este arquivo pelo seu logotipo (mesmo nome: assets/logo.svg)
+       ou aponte outro arquivo em js/config.js → logo -->
+  <rect x="4" y="4" width="232" height="232" rx="36" fill="#FFF3EE" stroke="#FF5A1F" stroke-width="4" stroke-dasharray="14 10"/>
+  <rect x="84" y="64" width="72" height="72" rx="20" fill="#FF5A1F"/>
+  <g fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round">
+    <path d="M106 86v28M97 93v14M134 86v28M143 93v14M106 100h28"/>
+  </g>
+  <text x="120" y="172" text-anchor="middle" font-family="Urbanist, Arial, sans-serif" font-size="20" font-weight="800" fill="#1B1B21">SEU LOGO</text>
+  <text x="120" y="196" text-anchor="middle" font-family="Urbanist, Arial, sans-serif" font-size="13" font-weight="600" fill="#6A6A75">240 × 240</text>
+</svg>
